@@ -1,4 +1,4 @@
-👋 Hey, I'm Shubham Kushwah – MERN Stack Developer
+#👋 Hey, I'm Shubham Kushwah – MERN Stack Developer
 🚀 Passionate about building scalable web applications, solving complex problems, and constantly learning new technologies!
 
 🛠 Tech Stack & Skills
@@ -27,7 +27,7 @@ Check out some of my best work:
 
 💡 Let's Connect!
 If you love tech, open-source, or just want to discuss ideas, feel free to reach out!
-📩 Email: gourav2912@email.com
+📩 Email:Shubhamkushwah3753@gmail.com
 🔗 LinkedIn: https://www.linkedin.com/in/shubham-kushwah-2b39a8327/
 
 💬 Do let me know if I can help you in any way—my inbox is always open! 🚀
