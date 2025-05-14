@@ -1,4 +1,4 @@
-#👋 Hey, I'm Shubham Kushwah – MERN Stack Developer
+# 👋 Hey, I'm Shubham Kushwah – MERN Stack Developer
 
 ####🚀 Passionate about building scalable web applications, solving complex problems, and constantly learning new technologies!
 
