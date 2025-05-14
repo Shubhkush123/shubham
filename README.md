@@ -5,9 +5,9 @@
 
 ## 🛠 Tech Stack & Skills
 
-**Frontend**: React.js, Next.js, Tailwind CSS  
+**Frontend**: React.js,  Tailwind CSS  
 **Backend**: Node.js, Express.js  
-**Database**: MongoDB, Firebase  
+**Database**: MongoDB
 **Tools & DevOps**: Docker, GitHub Actions, CI/CD Pipelines  
 **Other**: TypeScript, Redux, Context API, WebSockets
 
@@ -32,7 +32,7 @@
 - **📊 Admin Dashboard**  
   Role-based authentication, analytics, and real-time data visualization built with the MERN stack.
 
-🔗 [**Explore My GitHub Projects**](https://github.com/yourusername)
+
 
 ---
 
@@ -46,7 +46,7 @@
 
 ## 💬 Let's Connect!
 
-📩 **Email**: [gourav2912@email.com](mailto:gourav2912@email.com)  
-🔗 **LinkedIn**: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+📩 **Email**: shubhamkushwah3753@gmail.com   
+🔗 **LinkedIn**:https://www.linkedin.com/in/shubham-kushwah-2b39a8327/
 
 > Whether you're into tech, open-source, or have an idea to brainstorm—I'm always open to a good conversation!
