@@ -8,8 +8,7 @@
 **Frontend**: React.js,  Tailwind CSS  
 **Backend**: Node.js, Express.js  
 **Database**: MongoDB
-**Tools & DevOps**: Docker, GitHub Actions, CI/CD Pipelines  
-**Other**: TypeScript, Redux, Context API, WebSockets
+**Tools & DevOps**:  GitHub  
 
 ---
 
