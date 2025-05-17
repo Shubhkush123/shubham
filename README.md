@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Gourav Chouhan – MERN Stack Developer  
+# 👋 Hey, I'm shubham kushwah MERN Stack Developer  
 🚀 Passionate about building scalable web applications, solving complex problems, and staying at the forefront of technology.
 
 ---
